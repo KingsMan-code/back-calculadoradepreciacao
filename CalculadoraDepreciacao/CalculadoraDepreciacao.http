@@ -1,0 +1,6 @@
+@CalculadoraDepreciacao_HostAddress = http://localhost:5081
+
+GET {{CalculadoraDepreciacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

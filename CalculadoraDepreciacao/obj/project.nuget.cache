@@ -1,0 +1,50 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hahSvG1HkE=",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\closedxml\\0.104.0\\closedxml.0.104.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\documentformat.openxml\\3.0.1\\documentformat.openxml.3.0.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\documentformat.openxml.framework\\3.0.1\\documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\questpdf\\2025.1.0\\questpdf.2025.1.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\rbush\\3.2.0\\rbush.3.2.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CalculadoraDepreciacao depende de ClosedXML (>= 0.103.0) mas ClosedXML 0.103.0 não foi encontrado. ClosedXML 0.104.0 foi resolvido.",
+      "projectPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "libraryId": "ClosedXML",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CalculadoraDepreciacao depende de QuestPDF (>= 2024.12.5) mas QuestPDF 2024.12.5 não foi encontrado. QuestPDF 2025.1.0 foi resolvido.",
+      "projectPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "libraryId": "QuestPDF",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

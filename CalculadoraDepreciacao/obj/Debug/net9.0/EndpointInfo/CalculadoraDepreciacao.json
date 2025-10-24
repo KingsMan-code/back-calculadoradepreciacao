@@ -1,0 +1,121 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CalculadoraDepreciacao",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/calculate": {
+      "post": {
+        "tags": [
+          "CalculadoraDepreciacao"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/export/excel": {
+      "post": {
+        "tags": [
+          "CalculadoraDepreciacao"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/export/pdf": {
+      "post": {
+        "tags": [
+          "CalculadoraDepreciacao"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculationRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CalculationRequest": {
+        "type": "object",
+        "properties": {
+          "precoCompra": {
+            "type": "number",
+            "format": "double"
+          },
+          "vidaUtilAnos": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "percentCustos": {
+            "type": "number",
+            "format": "double"
+          },
+          "percentMargem": {
+            "type": "number",
+            "format": "double"
+          },
+          "diasUtilizacaoAnual": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantidade": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipoPeriodo": {
+            "type": "string",
+            "nullable": true
+          },
+          "numeroPeriodos": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "percentDesconto": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
