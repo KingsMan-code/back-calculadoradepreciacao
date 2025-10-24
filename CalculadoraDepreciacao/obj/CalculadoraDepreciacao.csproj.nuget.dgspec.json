@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj": {}
+    "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj": {
+    "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+        "projectUniqueName": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
         "projectName": "CalculadoraDepreciacao",
-        "projectPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+        "projectPath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\obj\\",
+        "outputPath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

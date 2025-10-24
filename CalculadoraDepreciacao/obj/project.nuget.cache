@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hahSvG1HkE=",
+  "dgSpecHash": "yNXnc+cxf9U=",
   "success": true,
-  "projectFilePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+  "projectFilePath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\closedxml\\0.104.0\\closedxml.0.104.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\closedxml.parser\\1.2.0\\closedxml.parser.1.2.0.nupkg.sha512",
@@ -26,9 +26,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CalculadoraDepreciacao depende de ClosedXML (>= 0.103.0) mas ClosedXML 0.103.0 não foi encontrado. ClosedXML 0.104.0 foi resolvido.",
-      "projectPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "projectPath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "filePath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
       "libraryId": "ClosedXML",
       "targetGraphs": [
         "net9.0"
@@ -38,9 +38,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "CalculadoraDepreciacao depende de QuestPDF (>= 2024.12.5) mas QuestPDF 2024.12.5 não foi encontrado. QuestPDF 2025.1.0 foi resolvido.",
-      "projectPath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "projectPath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\workspace\\VALMIR\\CalculadoraDepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
+      "filePath": "C:\\workspace\\VALMIR\\back-calculadoradepreciacao\\CalculadoraDepreciacao\\CalculadoraDepreciacao.csproj",
       "libraryId": "QuestPDF",
       "targetGraphs": [
         "net9.0"
